@@ -2,6 +2,10 @@ fastapi
 uvicorn
 pandas
 numpy
+seaborn
+matplotlib
+xgboost
+mlflow
 scikit-learn
 joblib
 requests
