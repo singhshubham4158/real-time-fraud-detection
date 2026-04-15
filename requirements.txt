@@ -4,6 +4,8 @@ pandas
 numpy
 seaborn
 matplotlib
+tensorflow
+imblearn
 xgboost
 mlflow
 scikit-learn
