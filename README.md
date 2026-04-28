@@ -19,8 +19,3 @@ uvicorn app.main:app --reload
 ## 📊 Results
 - Low-latency prediction (<200ms)
 - Improved fraud detection via ML
-
-## 🔥 Future Improvements
-- Kafka streaming
-- XGBoost model
-- AWS deployment
